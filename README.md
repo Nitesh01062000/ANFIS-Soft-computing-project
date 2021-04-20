@@ -4,7 +4,7 @@ Implementation of a basic version of [Adaptive-Network-based Fuzzy Inference Sys
 
 To run it yourself, first download the dataset from [here](https://www.kaggle.com/uciml/pima-indians-diabetes-database), standardize each feature and then use [`soft.ipynb`](soft.ipynb).
 
-To see our report, click [here](report.pdf).
+To see our report, click [here](Book report.pptx).
 
 ### Reference
 To cite [ANFIS](https://ieeexplore.ieee.org/document/256541) paper:
